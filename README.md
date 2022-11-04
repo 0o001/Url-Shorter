@@ -3,4 +3,5 @@ An url shortener
 
 C# Web API + Vue 3 + Tailwind CSS + MongoDB
 
-https://github.com/mrna0/Url-Shorter/blob/main/screenshots/screen-capture.webm
+## Video
+[screen-capture.webm](https://user-images.githubusercontent.com/4294069/200042608-435e4da3-2397-4374-862a-c8e6b1403b3b.webm)
